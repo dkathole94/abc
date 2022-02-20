@@ -11,7 +11,7 @@ public class yg {
 			b=b*0.50;
 			System.out.println("charges = "+b);
 			
-		}
+		}//shkbfhjvsf
 		if(b>50&&b<=100) {
 			b=b-50;
 			b=0.5*50+b*0.75;
